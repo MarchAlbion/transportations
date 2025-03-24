@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "34be357e-7612-4792-8eef-e4fd8c10a8bc",
+      "from": "London",
+      "to": "Uzhhorod",
+      "type": "Electronics",
+      "description": "Smartphone and accessories",
+      "date": "2025-03-12",
+      "createdAt": "2025-03-23 21:20"
+    },
+    {
+      "id": "15573a31-959b-43b8-9606-2cf1e86ae89e",
+      "from": "London",
+      "to": "Uzhhorod",
+      "type": "Clothing",
+      "description": "Winter jackets and boots",
+      "date": "2025-03-23",
+      "createdAt": "2025-03-23 21:32"
+    },
+    {
+      "id": "cf495e4d-ed71-4505-a4f5-f158852ee1b9",
+      "from": "Berlin",
+      "to": "Kyiv",
+      "type": "Books",
+      "description": "A collection of classic novels",
+      "date": "2025-03-23",
+      "createdAt": "2025-03-23 21:32"
+    },
+    {
+      "id": "25b0099d-c1b4-4bcc-b030-5dc0da734858",
+      "from": "Warsaw",
+      "to": "Uzhhorod",
+      "type": "Furniture",
+      "description": "Wooden chair and a small table",
+      "date": "2025-03-23",
+      "createdAt": "2025-03-23 21:32"
+    },
+    {
+      "id": "5bcfaa25-17e7-4aa5-bc77-50d0c7655f1d",
+      "from": "Paris",
+      "to": "London",
+      "type": "Documents",
+      "description": "Official papers and contracts",
+      "date": "2025-03-19",
+      "createdAt": "2025-03-23 21:32"
+    },
+    {
+      "id": "54eb488f-bb1e-4746-92a3-09120a703fa9",
+      "from": "New York",
+      "to": "Berlin",
+      "type": "Fashion Accessories",
+      "description": "Designer handbags and sunglasses",
+      "date": "2025-03-23",
+      "createdAt": "2025-03-23 21:33"
+    },
+    {
+      "id": "1d00efdc-09a3-4df4-b77f-acf57c0f9b87",
+      "from": "Tokyo",
+      "to": "Los Angeles",
+      "type": "Gaming Console",
+      "description": "PlayStation 5 with controllers",
+      "date": "2025-03-07",
+      "createdAt": "2025-03-23 21:33"
+    }
+  ]
+}
